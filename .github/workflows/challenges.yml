@@ -1,14 +1,14 @@
 name: FNITE-API Recupero Sfide
 
 on:
-    schedule:
-      - cron: '0 8 * * *'  # Esegui ogni giorno alle 10:00 orario italiano (09:00 UTC)
-    workflow_dispatch:  # Permette di avviare manualmente il workflow
+  schedule:
+    - cron: '8 8 * * *'  # Esegui ogni giorno alle 10:08 AM (orario italiano)
+  workflow_dispatch:  # Permette di avviare manualmente il workflow
 
 permissions: write-all
 
 jobs:
-  recupera_challenges:
+  recupera_api:
     runs-on: ubuntu-latest
     steps:
       - name: Controlla il Repository
@@ -22,12 +22,12 @@ jobs:
           python-version: "3.12"
 
       - name: Installa le dipendenze
-        run: pip install requests
+        run: pip install requests aiohttp
 
       - name: Salva Sfide
         run: python challenges.py
         env:
-            API_KEY: ${{ secrets.API_KEY }}
+          API_KEY: ${{ secrets.API_KEY }}
 
       - name: Effettua commit e push
         run: |
@@ -35,5 +35,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git pull
           git add data/*
-          git commit -m "Aggiorna Sfide" || echo "Nessuna modifica da salvare"
+          git commit -m "Aggiorna Sfide"
           git push
