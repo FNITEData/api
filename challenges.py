@@ -5,7 +5,7 @@ import os
 
 # Funzione per recuperare i dati delle sfide da fortniteapi.io
 def recupera_e_salva_sfide(season, lang):
-    url = f"https://fortniteapi.io/v3/challenges?season={stagione}&lang={lang}"
+    url = f"https://fortniteapi.io/v3/challenges?season={season}&lang={lang}"
     headers = {
         "Authorization": os.getenv('API_KEY')
     }
