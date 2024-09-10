@@ -37,5 +37,5 @@ season = '31'  # Sostituisci con la stagione corrente
 
 # Recupera e salva i dati delle sfide per ogni lingua
 for lingua in lista_lingue:
-    recupera_e_salva_sfide(stagione, lingua)
+    recupera_e_salva_sfide(season, lang)
     time.sleep(2)  # Pausa per evitare il rate-limiting
