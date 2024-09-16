@@ -4615,10 +4615,7 @@
                     "name": "Objetivos adicionales",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-08-16T08:00:00.000Z",
-                        "end": "2024-11-02T07:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,
@@ -4793,10 +4790,7 @@
                     "name": "Campa\u00f1a de reinicios",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-09-04T13:00:00.000Z",
-                        "end": "2024-09-24T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": {
                         "PrimaryColor": "#1D1D37",
@@ -4939,10 +4933,7 @@
                     "name": "Recompensas de Campa\u00f1a de reinicios",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-09-04T13:00:00.000Z",
-                        "end": "2024-09-24T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": {
                         "AccentColor": "#00EE33",
@@ -6061,10 +6052,7 @@
                     "name": "Nombre del objeto, lote de misiones de recogida adicional",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-08-21T13:00:00.000Z",
-                        "end": "2024-09-29T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,
@@ -6159,10 +6147,7 @@
                     "name": "Nombre del objeto del lote por etapas",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-08-21T13:00:00.000Z",
-                        "end": "2024-09-29T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,
@@ -6262,10 +6247,7 @@
                     "name": "Nombre del objeto del lote de misiones",
                     "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-08-21T13:00:00.000Z",
-                        "end": "2024-09-29T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,
@@ -6637,10 +6619,7 @@
                     "name": "Nombre del objeto del lote de misiones",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-08-21T13:00:00.000Z",
-                        "end": "2024-09-29T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,
