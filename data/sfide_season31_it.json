@@ -3205,6 +3205,292 @@
                     ]
                 },
                 {
+                    "id": "QuestBundle_S31_Birthday",
+                    "name": "Incarichi di compleanno",
+                    "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+                    "tags": [],
+                    "activeDates": null,
+                    "apiTags": [],
+                    "colors": null,
+                    "images": null,
+                    "bundleRewards": [],
+                    "category": null,
+                    "header": null,
+                    "quests": [
+                        {
+                            "id": "Quest_S31_Birthday_01",
+                            "name": "Augura buon compleanno all'autista del bus",
+                            "description": "BUON COMPLEANNO!",
+                            "shortDescription": "Augura buon compleanno all'autista del bus",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 7,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Birthday_02",
+                            "name": "Lancia regali di compleanno o apri forzieri",
+                            "description": "La pi\u00f9 importante tradizione di compleanno: i REGALI!!",
+                            "shortDescription": "Lancia regali di compleanno o apri forzieri",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 7,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Birthday_03",
+                            "name": "Distanza percorsa in volo con palloncini da Medaglioni di compleanno",
+                            "description": "Un'occasione perfetta per saltare di gioia.",
+                            "shortDescription": "Distanza percorsa in volo con palloncini da Medaglioni di compleanno",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 777,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Birthday_04",
+                            "name": "Mangia fette di torta di compleanno",
+                            "description": "Dolci sorprese per un giorno speciale.",
+                            "shortDescription": "Mangia fette di torta di compleanno",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 7,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Birthday_05",
+                            "name": "Rilascia o fai scoppiare i palloncini",
+                            "description": "Scoppietta!",
+                            "shortDescription": "Rilascia o fai scoppiare i palloncini",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 7,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Birthday_06",
+                            "name": "Spara i fuochi d'artificio con la pistola a razzi per rivelare i giocatori",
+                            "description": "Fuochi d'artificio? Non dovevi!",
+                            "shortDescription": "Spara i fuochi d'artificio con la pistola a razzi per rivelare i giocatori",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 7,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Birthday_Suppressed01",
+                            "name": "Usa emote in partite diverse",
+                            "description": "Entra nello spirito di compleanno!",
+                            "shortDescription": "Usa emote in partite diverse",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 7,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Birthday_Suppressed02",
+                            "name": "Ricevi doni dai PNG",
+                            "description": "Sono tutti in vena di generosit\u00e0!",
+                            "shortDescription": "Ricevi doni dai PNG",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 7,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        }
+                    ]
+                },
+                {
+                    "id": "QuestBundle_S31_Birthday_BonusGoals",
+                    "name": "Obiettivi bonus compleanno",
+                    "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+                    "tags": [],
+                    "activeDates": null,
+                    "apiTags": [],
+                    "colors": null,
+                    "images": null,
+                    "bundleRewards": [],
+                    "category": null,
+                    "header": "Obiettivi bonus compleanno",
+                    "quests": [
+                        {
+                            "id": "Quest_S31_Birthday_BonusGoal_01",
+                            "name": "Completa 1 incarico di compleanno",
+                            "description": "",
+                            "shortDescription": "Completa 1 incarico di compleanno",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 1,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": [
+                                    {
+                                        "id": "Spray_7thBirthday",
+                                        "type": {
+                                            "id": "spray",
+                                            "name": "Spray"
+                                        },
+                                        "name": "Amico di compleanno",
+                                        "rarity": {
+                                            "id": "Uncommon",
+                                            "name": "NON COMUNE"
+                                        },
+                                        "series": null,
+                                        "images": {
+                                            "icon": "https://media.fortniteapi.io/images/143d3b2399d817f30e7a4490024f849b/transparent.png",
+                                            "featured": null,
+                                            "background": "https://media.fortniteapi.io/images/cosmetics/143d3b2399d817f30e7a4490024f849b/v2/background.png",
+                                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/143d3b2399d817f30e7a4490024f849b/v2/icon_background.png",
+                                            "full_background": "https://media.fortniteapi.io/images/cosmetics/143d3b2399d817f30e7a4490024f849b/v2/info.it.png"
+                                        },
+                                        "video": null,
+                                        "audio": null
+                                    }
+                                ]
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Birthday_BonusGoal_02",
+                            "name": "Completa 3 incarichi di compleanno",
+                            "description": "",
+                            "shortDescription": "Completa 3 incarichi di compleanno",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 3,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": [
+                                    {
+                                        "id": "Pickaxe_FNBirthday7",
+                                        "type": {
+                                            "id": "pickaxe",
+                                            "name": "Picconi"
+                                        },
+                                        "name": "Tortassalto",
+                                        "rarity": {
+                                            "id": "Rare",
+                                            "name": "RARO"
+                                        },
+                                        "series": null,
+                                        "images": {
+                                            "icon": "https://media.fortniteapi.io/images/d9dc18b01d692eae3e61ca0bb4744885/transparent.png",
+                                            "featured": null,
+                                            "background": "https://media.fortniteapi.io/images/cosmetics/d9dc18b01d692eae3e61ca0bb4744885/v2/background.png",
+                                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/d9dc18b01d692eae3e61ca0bb4744885/v2/icon_background.png",
+                                            "full_background": "https://media.fortniteapi.io/images/cosmetics/d9dc18b01d692eae3e61ca0bb4744885/v2/info.it.png"
+                                        },
+                                        "video": null,
+                                        "audio": null
+                                    }
+                                ]
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Birthday_BonusGoal_03",
+                            "name": "Completa 5 incarichi di compleanno",
+                            "description": "",
+                            "shortDescription": "Completa 5 incarichi di compleanno",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 5,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": [
+                                    {
+                                        "id": "Backpack_FNBirthdaySeven",
+                                        "type": {
+                                            "id": "backpack",
+                                            "name": "Dorso decorativo"
+                                        },
+                                        "name": "Torta spaziale con confettini",
+                                        "rarity": {
+                                            "id": "Rare",
+                                            "name": "RARO"
+                                        },
+                                        "series": null,
+                                        "images": {
+                                            "icon": "https://media.fortniteapi.io/images/62bdd303f052eab3e8d0588ad61c3a63/transparent.png",
+                                            "featured": null,
+                                            "background": "https://media.fortniteapi.io/images/cosmetics/62bdd303f052eab3e8d0588ad61c3a63/v2/background.png",
+                                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/62bdd303f052eab3e8d0588ad61c3a63/v2/icon_background.png",
+                                            "full_background": "https://media.fortniteapi.io/images/cosmetics/62bdd303f052eab3e8d0588ad61c3a63/v2/info.it.png"
+                                        },
+                                        "video": null,
+                                        "audio": null
+                                    }
+                                ]
+                            },
+                            "locations": []
+                        }
+                    ]
+                },
+                {
                     "id": "QuestBundle_S31_BPCharacter_01",
                     "name": "Bundle personaggio di met\u00e0 stagione 1",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
@@ -4203,6 +4489,157 @@
                     ]
                 },
                 {
+                    "id": "QuestBundle_S31_FoundQuests_GreenTown",
+                    "name": "",
+                    "unlockType": "EChallengeBundleQuestUnlockType::Manually",
+                    "tags": [],
+                    "activeDates": null,
+                    "apiTags": [],
+                    "colors": null,
+                    "images": null,
+                    "bundleRewards": [],
+                    "category": null,
+                    "header": null,
+                    "quests": [
+                        {
+                            "id": "quest_S31_found_greentown_complete",
+                            "name": "Completa tutti gli incarichi del fan club di Stark trovati",
+                            "description": "A tutti i superfan: abbiamo bisogno di altri souvenir di Stark! - Superfan di Stark",
+                            "shortDescription": "Completa tutti gli incarichi del fan club di Stark trovati",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 4,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "quest_s31_found_greentown_complete_granter",
+                            "name": "(nascosto) Raccogli informazioni sul fan club di Stark",
+                            "description": "",
+                            "shortDescription": "(nascosto) Raccogli informazioni sul fan club di Stark",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 10:45:30+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "quest_s31_found_greentown_q01_hidden",
+                            "name": "Parla con il superfan di Stark",
+                            "description": "",
+                            "shortDescription": "Parla con il superfan di Stark",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 10:45:30+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "quest_s31_found_greentown_q01_optional_hidden",
+                            "name": "Parla con Incursora lucente o Ruggine del fan club di Stark",
+                            "description": "",
+                            "shortDescription": "Parla con Incursora lucente o Ruggine del fan club di Stark",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 10:45:30+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "quest_s31_found_greentown_q02a_hidden",
+                            "name": "Recupera occhiali da sole di Tony Stark da un forziere Stark Industries",
+                            "description": "",
+                            "shortDescription": "Recupera occhiali da sole di Tony Stark da un forziere Stark Industries",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 2,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "quest_s31_found_greentown_q02b_hidden",
+                            "name": "Parla con Iron Man del fan club di Stark",
+                            "description": "",
+                            "shortDescription": "Parla con Iron Man del fan club di Stark",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 2,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "quest_s31_found_greentown_q02c_hidden",
+                            "name": "Parla con War Machine del fan club di Stark",
+                            "description": "",
+                            "shortDescription": "Parla con War Machine del fan club di Stark",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 2,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "quest_s31_found_greentown_q03_hidden",
+                            "name": "Parla con il superfan di Stark dopo aver portato tre oggetti nel club",
+                            "description": "",
+                            "shortDescription": "Parla con il superfan di Stark dopo aver portato tre oggetti nel club",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 3,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": []
+                            },
+                            "locations": []
+                        }
+                    ]
+                },
+                {
                     "id": "QuestBundle_S31_FoundQuests_PB",
                     "name": "",
                     "unlockType": "EChallengeBundleQuestUnlockType::Manually",
@@ -4778,6 +5215,105 @@
                                             "background": "https://media.fortniteapi.io/images/cosmetics/fa19612f0cde964c73aa488e5781d839/v2/background.png",
                                             "icon_background": "https://media.fortniteapi.io/images/cosmetics/fa19612f0cde964c73aa488e5781d839/v2/icon_background.png",
                                             "full_background": "https://media.fortniteapi.io/images/cosmetics/fa19612f0cde964c73aa488e5781d839/v2/info.it.png"
+                                        },
+                                        "video": null,
+                                        "audio": null
+                                    }
+                                ]
+                            },
+                            "locations": []
+                        }
+                    ]
+                },
+                {
+                    "id": "QuestBundle_S31_RankedScythe",
+                    "name": "",
+                    "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+                    "tags": [],
+                    "activeDates": null,
+                    "apiTags": [],
+                    "colors": {
+                        "AccentColor": "#00EE33",
+                        "Context_LimitedTimeColor": "#CCF7FF",
+                        "Context_BaseColor": "#FFEE33"
+                    },
+                    "images": null,
+                    "bundleRewards": [],
+                    "category": null,
+                    "header": "Obiettivi bonus Felina",
+                    "quests": [
+                        {
+                            "id": "Quest_S31_Event_RankedScythe_Q01",
+                            "name": "Ottieni livelli account",
+                            "description": "",
+                            "shortDescription": "Ottieni livelli account",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 25,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": [
+                                    {
+                                        "id": "Pickaxe_RankedScythe",
+                                        "type": {
+                                            "id": "pickaxe",
+                                            "name": "Picconi"
+                                        },
+                                        "name": "Artiglio di Felina",
+                                        "rarity": {
+                                            "id": "Rare",
+                                            "name": "RARO"
+                                        },
+                                        "series": null,
+                                        "images": {
+                                            "icon": "https://media.fortniteapi.io/images/1fb0ea05e9e352f340d87830433015c9/transparent.png",
+                                            "featured": null,
+                                            "background": "https://media.fortniteapi.io/images/cosmetics/1fb0ea05e9e352f340d87830433015c9/v2/background.png",
+                                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/1fb0ea05e9e352f340d87830433015c9/v2/icon_background.png",
+                                            "full_background": "https://media.fortniteapi.io/images/cosmetics/1fb0ea05e9e352f340d87830433015c9/v2/info.it.png"
+                                        },
+                                        "video": null,
+                                        "audio": null
+                                    }
+                                ]
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Event_RankedScythe_Q02",
+                            "name": "Ottieni livelli account",
+                            "description": "",
+                            "shortDescription": "Ottieni livelli account",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 50,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": [
+                                    {
+                                        "id": "Character_RankedScythe",
+                                        "type": {
+                                            "id": "outfit",
+                                            "name": "Costume"
+                                        },
+                                        "name": "Felina",
+                                        "rarity": {
+                                            "id": "Epic",
+                                            "name": "Epico"
+                                        },
+                                        "series": null,
+                                        "images": {
+                                            "icon": "https://media.fortniteapi.io/images/b88d104d14cd7e902e7d1b97f16450d3/transparent.png",
+                                            "featured": null,
+                                            "background": "https://media.fortniteapi.io/images/cosmetics/b88d104d14cd7e902e7d1b97f16450d3/v2/background.png",
+                                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/b88d104d14cd7e902e7d1b97f16450d3/v2/icon_background.png",
+                                            "full_background": "https://media.fortniteapi.io/images/cosmetics/b88d104d14cd7e902e7d1b97f16450d3/v2/info.it.png"
                                         },
                                         "video": null,
                                         "audio": null
@@ -6730,6 +7266,323 @@
                             "reward": {
                                 "xp": 30000,
                                 "items": []
+                            },
+                            "locations": []
+                        }
+                    ]
+                },
+                {
+                    "id": "QuestBundle_S31_Toadjam_01",
+                    "name": "Incarichi MAT Marvel",
+                    "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+                    "tags": [],
+                    "activeDates": {
+                        "start": "2024-09-17T13:00:00.000Z",
+                        "end": "2024-10-04T14:00:00.000Z"
+                    },
+                    "apiTags": [],
+                    "colors": null,
+                    "images": null,
+                    "bundleRewards": [],
+                    "category": null,
+                    "header": null,
+                    "quests": [
+                        {
+                            "id": "Quest_S31_ToadJam_Q01",
+                            "name": "Impedisci a Doctor Doom di raccogliere i sei Manufatti Arcani",
+                            "description": "Va bene, mettiamo fine a questa storia. Una volta per tutte. - Captain Jones",
+                            "shortDescription": "Impedisci a Doctor Doom di raccogliere i sei Manufatti Arcani",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 18:34:05+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q02",
+                            "name": "Danneggia gli avversari con oggetti degli eroi",
+                            "description": "Perfetto. Posso provare nuovi giocattoli. - War Machine",
+                            "shortDescription": "Danneggia gli avversari con oggetti degli eroi",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 18:34:05+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1500,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q03",
+                            "name": "Usa Curabbomba o Schiaffobbomba sugli alleati",
+                            "description": "Non puoi affrontare il male quando sei cos\u00ec debole! - Black Panther",
+                            "shortDescription": "Usa Curabbomba o Schiaffobbomba sugli alleati",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 18:34:05+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 10,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q04",
+                            "name": "Aiuta Doctor Doom a raccogliere i sei Manufatti Arcani",
+                            "description": "Questi sciocchi devo essere puniti per la loro insolenza! - Doctor Doom",
+                            "shortDescription": "Aiuta Doctor Doom a raccogliere i sei Manufatti Arcani",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 18:34:05+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q05",
+                            "name": "Danneggia gli avversari con i guanti arcani di Doctor Doom",
+                            "description": "Non illuderti che io non sia una minaccia. - Emma Frost",
+                            "shortDescription": "Danneggia gli avversari con i guanti arcani di Doctor Doom",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 18:34:05+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1500,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q06",
+                            "name": "Colpisci giocatori con granate a onda d'urto",
+                            "description": "Accompagnali all'uscita. E chiudi la porta. - Mysterio",
+                            "shortDescription": "Colpisci giocatori con granate a onda d'urto",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 18:34:05+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 20,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q07",
+                            "name": "Elimina gli avversari in una sola partita",
+                            "description": "Ehi, se lavorano per Doom, sono i CATTIVI. - Captain Jones",
+                            "shortDescription": "Elimina gli avversari in una sola partita",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 3,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q08",
+                            "name": "Distanza percorsa in volo",
+                            "description": "Non sottovalutare mai il potere della superiorit\u00e0 aerea. - War Machine",
+                            "shortDescription": "Distanza percorsa in volo",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 1500,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q09",
+                            "name": "Danneggia il Prescelto di Doom o danneggia gli avversari come Prescelto di Doom",
+                            "description": "Questi giochi sono irrilevanti. Ci\u00f2 che conta \u00e8 la posta in gioco. - Emma Frost",
+                            "shortDescription": "Danneggia il Prescelto di Doom o danneggia gli avversari come Prescelto di Doom",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 400,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q10",
+                            "name": "Raccogli un Manufatto Arcano nel ruolo di uno degli scagnozzi di Doom",
+                            "description": "Il mio potere far\u00e0 risorgere la Latveria! - Doctor Doom",
+                            "shortDescription": "Raccogli un Manufatto Arcano nel ruolo di uno degli scagnozzi di Doom",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 1,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q11",
+                            "name": "Elimina nemici con fucili d'assalto",
+                            "description": "Mostriamo loro il potere di Wakanda! - Black Panther",
+                            "shortDescription": "Elimina nemici con fucili d'assalto",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 7,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Q12",
+                            "name": "Colpisci avversari alla testa con DMR Cacciatrice, Pistola pesante o Pistola Monarca",
+                            "description": "Vincere non significa nulla, se non lo si fa con stile. - Mysterio",
+                            "shortDescription": "Colpisci avversari alla testa con DMR Cacciatrice, Pistola pesante o Pistola Monarca",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": null,
+                            "parentQuest": null,
+                            "progressTotal": 5,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Suppressed_Q01",
+                            "name": "Danneggia gli avversari",
+                            "description": "L'insolenza va punita. - Doctor Doom",
+                            "shortDescription": "Danneggia gli avversari",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 18:34:05+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1500,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_ToadJam_Suppressed_Q02",
+                            "name": "Distanza percorsa",
+                            "description": "Mi serve un esploratore. Copri pi\u00f9 terreno che puoi. - Captain Jones",
+                            "shortDescription": "Distanza percorsa",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 18:34:05+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1000,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        }
+                    ]
+                },
+                {
+                    "id": "Questbundle_S31_ToadJam_BonusGoals",
+                    "name": "Nome oggetto, bundle incarichi collezione bonus",
+                    "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+                    "tags": [],
+                    "activeDates": {
+                        "start": "2024-09-17T13:00:00.000Z",
+                        "end": "2024-10-04T14:00:00.000Z"
+                    },
+                    "apiTags": [],
+                    "colors": null,
+                    "images": null,
+                    "bundleRewards": [],
+                    "category": null,
+                    "header": "Obiettivi Giorno del destino",
+                    "quests": [
+                        {
+                            "id": "Quest_S31_ToadJam_Bonus",
+                            "name": "Completa incarichi Giorno del destino",
+                            "description": "",
+                            "shortDescription": "Completa incarichi Giorno del destino",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-09-17 18:34:05+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 8,
+                            "tags": [],
+                            "reward": {
+                                "xp": 0,
+                                "items": [
+                                    {
+                                        "id": "LoadingScreen_FNBRZB",
+                                        "type": {
+                                            "id": "loadingscreen",
+                                            "name": "Schermata di caricamento"
+                                        },
+                                        "name": "Furia del nanamantio",
+                                        "rarity": {
+                                            "id": "Uncommon",
+                                            "name": "NON COMUNE"
+                                        },
+                                        "series": {
+                                            "id": "MarvelSeries",
+                                            "name": "SERIE MARVEL"
+                                        },
+                                        "images": {
+                                            "icon": "https://media.fortniteapi.io/images/fe7838396004575fdff56fb72b59fdb0/transparent.png",
+                                            "featured": "https://media.fortniteapi.io/images/fe7838396004575fdff56fb72b59fdb0/full_featured.png",
+                                            "background": "https://media.fortniteapi.io/images/cosmetics/fe7838396004575fdff56fb72b59fdb0/v2/background.png",
+                                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/fe7838396004575fdff56fb72b59fdb0/v2/icon_background.png",
+                                            "full_background": "https://media.fortniteapi.io/images/cosmetics/fe7838396004575fdff56fb72b59fdb0/v2/info.it.png"
+                                        },
+                                        "video": null,
+                                        "audio": null
+                                    }
+                                ]
                             },
                             "locations": []
                         }
