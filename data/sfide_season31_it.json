@@ -31,7 +31,7 @@
                             "description": "",
                             "shortDescription": "Completa tutti gli incarichi comuni per ottenere il Lama pregiato comune",
                             "categoryHeader": null,
-                            "enabled": true,
+                            "enabled": false,
                             "enabledDate": "2024-08-16 23:45:30+00:00",
                             "parentQuest": null,
                             "progressTotal": 10,
@@ -330,7 +330,7 @@
                             "description": "",
                             "shortDescription": "Comune 10 - Raggiungi 50 giocatori rimasti con un'eliminazione",
                             "categoryHeader": null,
-                            "enabled": true,
+                            "enabled": false,
                             "enabledDate": "2024-08-16 23:45:30+00:00",
                             "parentQuest": null,
                             "progressTotal": 3,
@@ -7261,10 +7261,7 @@
                     "name": "Incarichi MAT Marvel",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-09-17T12:00:00.000Z",
-                        "end": "2024-10-04T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,
@@ -7517,10 +7514,7 @@
                     "name": "Nome oggetto, bundle incarichi collezione bonus",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-09-17T12:00:00.000Z",
-                        "end": "2024-10-04T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,

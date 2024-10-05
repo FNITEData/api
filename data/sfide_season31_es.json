@@ -31,7 +31,7 @@
                             "description": "",
                             "shortDescription": "Completa todas las misiones de la categor\u00eda com\u00fan para recibir la Llama premiada (com\u00fan)",
                             "categoryHeader": null,
-                            "enabled": true,
+                            "enabled": false,
                             "enabledDate": "2024-08-16 23:45:30+00:00",
                             "parentQuest": null,
                             "progressTotal": 10,
@@ -330,7 +330,7 @@
                             "description": "",
                             "shortDescription": "Com\u00fan 10: Sobrevive hasta llegar al top 50 con una eliminaci\u00f3n",
                             "categoryHeader": null,
-                            "enabled": true,
+                            "enabled": false,
                             "enabledDate": "2024-08-16 23:45:30+00:00",
                             "parentQuest": null,
                             "progressTotal": 3,
@@ -7261,10 +7261,7 @@
                     "name": "Misiones del MTL de Marvel",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-09-17T12:00:00.000Z",
-                        "end": "2024-10-04T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,
@@ -7517,10 +7514,7 @@
                     "name": "Nombre del objeto, lote de misiones de recogida adicional",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-09-17T12:00:00.000Z",
-                        "end": "2024-10-04T13:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,
