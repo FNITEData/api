@@ -5052,7 +5052,10 @@
                     "name": "Obiettivi bonus",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": null,
+                    "activeDates": {
+                        "start": "2024-08-16T08:00:00.000Z",
+                        "end": "2024-11-02T07:00:00.000Z"
+                    },
                     "apiTags": [],
                     "colors": null,
                     "images": null,
@@ -5227,7 +5230,10 @@
                     "name": "",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": null,
+                    "activeDates": {
+                        "start": "2024-09-24T13:00:00.000Z",
+                        "end": "2024-12-09T14:00:00.000Z"
+                    },
                     "apiTags": [],
                     "colors": {
                         "AccentColor": "#00EE33",
