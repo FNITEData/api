@@ -330,7 +330,7 @@
                             "description": "",
                             "shortDescription": "Comune 10 - Raggiungi 50 giocatori rimasti con un'eliminazione",
                             "categoryHeader": null,
-                            "enabled": true,
+                            "enabled": false,
                             "enabledDate": "2024-08-31 03:11:22+00:00",
                             "parentQuest": null,
                             "progressTotal": 3,

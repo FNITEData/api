@@ -330,7 +330,7 @@
                             "description": "",
                             "shortDescription": "Com\u00fan 10: Sobrevive hasta llegar al top 50 con una eliminaci\u00f3n",
                             "categoryHeader": null,
-                            "enabled": true,
+                            "enabled": false,
                             "enabledDate": "2024-08-31 03:11:22+00:00",
                             "parentQuest": null,
                             "progressTotal": 3,
