@@ -1632,7 +1632,7 @@
                             "description": "",
                             "shortDescription": "Inflige da\u00f1o a oponentes con unos microsubfusiles dobles",
                             "categoryHeader": null,
-                            "enabled": false,
+                            "enabled": true,
                             "enabledDate": "2024-08-16 23:45:30+00:00",
                             "parentQuest": null,
                             "progressTotal": 1000,
