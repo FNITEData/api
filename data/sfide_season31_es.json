@@ -1946,15 +1946,15 @@
                             "locations": []
                         },
                         {
-                            "id": "Quest_S31_Weekly_W02_suppressed02",
-                            "name": "Recupera salud",
+                            "id": "Quest_S31_Weekly_W02_Q04",
+                            "name": "Inflige da\u00f1o a oponentes en un plazo de 5\u00a0segundos tras recibir da\u00f1o",
                             "description": "",
-                            "shortDescription": "Recupera salud",
+                            "shortDescription": "Inflige da\u00f1o a oponentes en un plazo de 5\u00a0segundos tras recibir da\u00f1o",
                             "categoryHeader": null,
                             "enabled": true,
                             "enabledDate": "2024-08-27 18:16:02+00:00",
                             "parentQuest": null,
-                            "progressTotal": 200,
+                            "progressTotal": 150,
                             "tags": [],
                             "reward": {
                                 "xp": 20000,
@@ -1989,6 +1989,23 @@
                             "enabledDate": "2024-08-27 18:16:02+00:00",
                             "parentQuest": null,
                             "progressTotal": 1,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Weekly_W02_suppressed02",
+                            "name": "Recupera salud",
+                            "description": "",
+                            "shortDescription": "Recupera salud",
+                            "categoryHeader": null,
+                            "enabled": true,
+                            "enabledDate": "2024-08-27 18:16:02+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 200,
                             "tags": [],
                             "reward": {
                                 "xp": 20000,
@@ -9428,15 +9445,15 @@
                             "locations": []
                         },
                         {
-                            "id": "Quest_S31_Sweatember_Suppressed_02",
-                            "name": "Re\u00fane munici\u00f3n de jugadores eliminados",
-                            "description": "No lo van a necesitar. - Musculito de pescado",
-                            "shortDescription": "Re\u00fane munici\u00f3n de jugadores eliminados",
+                            "id": "Quest_S31_Sweatember_D1_01",
+                            "name": "Juega una partida en cualquier modalidad de torneo",
+                            "description": "\u00bfTodo listo para el gran desaf\u00edo? - Musculito de pescado",
+                            "shortDescription": "Juega una partida en cualquier modalidad de torneo",
                             "categoryHeader": null,
                             "enabled": false,
-                            "enabledDate": "2024-08-21 18:32:02+00:00",
+                            "enabledDate": "2024-08-23 18:32:02+00:00",
                             "parentQuest": null,
-                            "progressTotal": 450,
+                            "progressTotal": 1,
                             "tags": [],
                             "reward": {
                                 "xp": 20000,
@@ -9445,15 +9462,15 @@
                             "locations": []
                         },
                         {
-                            "id": "Quest_S31_Sweatember_Suppressed_03",
-                            "name": "Sobrevive a c\u00edrculos de la tormenta tras eliminar a un jugador",
-                            "description": "Demu\u00e9strales que puedes con todos. - Musculito de pescado",
-                            "shortDescription": "Sobrevive a c\u00edrculos de la tormenta tras eliminar a un jugador",
+                            "id": "Quest_S31_Sweatember_D1_02",
+                            "name": "Sobrevive a c\u00edrculos de la tormenta en torneos",
+                            "description": "En tu sudor se lee la palabra \"supervivencia\". - Musculito de pescado",
+                            "shortDescription": "Sobrevive a c\u00edrculos de la tormenta en torneos",
                             "categoryHeader": null,
                             "enabled": false,
-                            "enabledDate": "2024-08-21 18:32:02+00:00",
+                            "enabledDate": "2024-08-26 18:34:01+00:00",
                             "parentQuest": null,
-                            "progressTotal": 10,
+                            "progressTotal": 5,
                             "tags": [],
                             "reward": {
                                 "xp": 20000,
@@ -9715,6 +9732,40 @@
                                 "items": []
                             },
                             "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Sweatember_Suppressed_02",
+                            "name": "Re\u00fane munici\u00f3n de jugadores eliminados",
+                            "description": "No lo van a necesitar. - Musculito de pescado",
+                            "shortDescription": "Re\u00fane munici\u00f3n de jugadores eliminados",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-08-21 18:32:02+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 450,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Sweatember_Suppressed_03",
+                            "name": "Sobrevive a c\u00edrculos de la tormenta tras eliminar a un jugador",
+                            "description": "Demu\u00e9strales que puedes con todos. - Musculito de pescado",
+                            "shortDescription": "Sobrevive a c\u00edrculos de la tormenta tras eliminar a un jugador",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-08-21 18:32:02+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 10,
+                            "tags": [],
+                            "reward": {
+                                "xp": 20000,
+                                "items": []
+                            },
+                            "locations": []
                         }
                     ]
                 },
@@ -9770,6 +9821,23 @@
                             "name": "Consigue una victoria magistral",
                             "description": "Esa corona te pertenece. - Mia\u00fasculos",
                             "shortDescription": "Consigue una victoria magistral",
+                            "categoryHeader": null,
+                            "enabled": false,
+                            "enabledDate": "2024-08-21 18:32:02+00:00",
+                            "parentQuest": null,
+                            "progressTotal": 1,
+                            "tags": [],
+                            "reward": {
+                                "xp": 30000,
+                                "items": []
+                            },
+                            "locations": []
+                        },
+                        {
+                            "id": "Quest_S31_Sweatember_Victory_01",
+                            "name": "Consigue una victoria magistral en cualquier modalidad de torneo",
+                            "description": "Ganar no lo es todo, aunque s\u00ed que resulta divertid\u00edsimo. - Mia\u00fasculos",
+                            "shortDescription": "Consigue una victoria magistral en cualquier modalidad de torneo",
                             "categoryHeader": null,
                             "enabled": false,
                             "enabledDate": "2024-08-21 18:32:02+00:00",
