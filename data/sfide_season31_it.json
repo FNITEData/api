@@ -1946,15 +1946,15 @@
                             "locations": []
                         },
                         {
-                            "id": "Quest_S31_Weekly_W02_Q04",
-                            "name": "Danneggia gli avversari entro 5 secondi dall'aver ricevuto danno",
+                            "id": "Quest_S31_Weekly_W02_suppressed02",
+                            "name": "Ottieni salute",
                             "description": "",
-                            "shortDescription": "Danneggia gli avversari entro 5 secondi dall'aver ricevuto danno",
+                            "shortDescription": "Ottieni salute",
                             "categoryHeader": null,
                             "enabled": true,
                             "enabledDate": "2024-08-27 18:16:02+00:00",
                             "parentQuest": null,
-                            "progressTotal": 150,
+                            "progressTotal": 200,
                             "tags": [],
                             "reward": {
                                 "xp": 20000,
@@ -1989,23 +1989,6 @@
                             "enabledDate": "2024-08-27 18:16:02+00:00",
                             "parentQuest": null,
                             "progressTotal": 1,
-                            "tags": [],
-                            "reward": {
-                                "xp": 20000,
-                                "items": []
-                            },
-                            "locations": []
-                        },
-                        {
-                            "id": "Quest_S31_Weekly_W02_suppressed02",
-                            "name": "Ottieni salute",
-                            "description": "",
-                            "shortDescription": "Ottieni salute",
-                            "categoryHeader": null,
-                            "enabled": true,
-                            "enabledDate": "2024-08-27 18:16:02+00:00",
-                            "parentQuest": null,
-                            "progressTotal": 200,
                             "tags": [],
                             "reward": {
                                 "xp": 20000,
@@ -9445,15 +9428,15 @@
                             "locations": []
                         },
                         {
-                            "id": "Quest_S31_Sweatember_D1_01",
-                            "name": "Gioca una partita in qualsiasi modalit\u00e0 torneo",
-                            "description": "Sei pronto per una sfida impegnativa? - Pesce erculeo",
-                            "shortDescription": "Gioca una partita in qualsiasi modalit\u00e0 torneo",
+                            "id": "Quest_S31_Sweatember_Suppressed_02",
+                            "name": "Raccogli munizioni dai giocatori eliminati",
+                            "description": "Non ne avranno bisogno. - Pesce erculeo",
+                            "shortDescription": "Raccogli munizioni dai giocatori eliminati",
                             "categoryHeader": null,
                             "enabled": false,
-                            "enabledDate": "2024-08-23 18:32:02+00:00",
+                            "enabledDate": "2024-08-21 18:32:02+00:00",
                             "parentQuest": null,
-                            "progressTotal": 1,
+                            "progressTotal": 450,
                             "tags": [],
                             "reward": {
                                 "xp": 20000,
@@ -9462,15 +9445,15 @@
                             "locations": []
                         },
                         {
-                            "id": "Quest_S31_Sweatember_D1_02",
-                            "name": "Sopravvivi ai cerchi della Tempesta nei tornei",
-                            "description": "Hai la stoffa per sopravvivere. - Pesce erculeo",
-                            "shortDescription": "Sopravvivi ai cerchi della Tempesta nei tornei",
+                            "id": "Quest_S31_Sweatember_Suppressed_03",
+                            "name": "Sopravvivi ai cerchi della Tempesta dopo aver eliminato un giocatore",
+                            "description": "Dimostra di poter sopravvivere a tutti. - Pesce erculeo",
+                            "shortDescription": "Sopravvivi ai cerchi della Tempesta dopo aver eliminato un giocatore",
                             "categoryHeader": null,
                             "enabled": false,
-                            "enabledDate": "2024-08-26 18:34:01+00:00",
+                            "enabledDate": "2024-08-21 18:32:02+00:00",
                             "parentQuest": null,
-                            "progressTotal": 5,
+                            "progressTotal": 10,
                             "tags": [],
                             "reward": {
                                 "xp": 20000,
@@ -9732,40 +9715,6 @@
                                 "items": []
                             },
                             "locations": []
-                        },
-                        {
-                            "id": "Quest_S31_Sweatember_Suppressed_02",
-                            "name": "Raccogli munizioni dai giocatori eliminati",
-                            "description": "Non ne avranno bisogno. - Pesce erculeo",
-                            "shortDescription": "Raccogli munizioni dai giocatori eliminati",
-                            "categoryHeader": null,
-                            "enabled": false,
-                            "enabledDate": "2024-08-21 18:32:02+00:00",
-                            "parentQuest": null,
-                            "progressTotal": 450,
-                            "tags": [],
-                            "reward": {
-                                "xp": 20000,
-                                "items": []
-                            },
-                            "locations": []
-                        },
-                        {
-                            "id": "Quest_S31_Sweatember_Suppressed_03",
-                            "name": "Sopravvivi ai cerchi della Tempesta dopo aver eliminato un giocatore",
-                            "description": "Dimostra di poter sopravvivere a tutti. - Pesce erculeo",
-                            "shortDescription": "Sopravvivi ai cerchi della Tempesta dopo aver eliminato un giocatore",
-                            "categoryHeader": null,
-                            "enabled": false,
-                            "enabledDate": "2024-08-21 18:32:02+00:00",
-                            "parentQuest": null,
-                            "progressTotal": 10,
-                            "tags": [],
-                            "reward": {
-                                "xp": 20000,
-                                "items": []
-                            },
-                            "locations": []
                         }
                     ]
                 },
@@ -9821,23 +9770,6 @@
                             "name": "Ottieni una Vittoria reale",
                             "description": "La corona \u00e8 tua. - Miaoscolo",
                             "shortDescription": "Ottieni una Vittoria reale",
-                            "categoryHeader": null,
-                            "enabled": false,
-                            "enabledDate": "2024-08-21 18:32:02+00:00",
-                            "parentQuest": null,
-                            "progressTotal": 1,
-                            "tags": [],
-                            "reward": {
-                                "xp": 30000,
-                                "items": []
-                            },
-                            "locations": []
-                        },
-                        {
-                            "id": "Quest_S31_Sweatember_Victory_01",
-                            "name": "Ottieni una Vittoria reale in qualsiasi modalit\u00e0 torneo",
-                            "description": "Vincere non \u00e8 tutto, ma \u00e8 sicuramente divertente. - Miaoscolo",
-                            "shortDescription": "Ottieni una Vittoria reale in qualsiasi modalit\u00e0 torneo",
                             "categoryHeader": null,
                             "enabled": false,
                             "enabledDate": "2024-08-21 18:32:02+00:00",
