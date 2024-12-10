@@ -7751,10 +7751,7 @@
                     "name": "",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-09-24T13:00:00.000Z",
-                        "end": "2024-12-09T14:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": {
                         "AccentColor": "#00EE33",
