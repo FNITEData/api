@@ -5135,10 +5135,7 @@
                     "name": "Objetivos adicionales",
                     "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
                     "tags": [],
-                    "activeDates": {
-                        "start": "2024-08-16T08:00:00.000Z",
-                        "end": "2024-12-10T08:00:00.000Z"
-                    },
+                    "activeDates": null,
                     "apiTags": [],
                     "colors": null,
                     "images": null,
