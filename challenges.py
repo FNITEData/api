@@ -44,7 +44,7 @@ async def recupera_e_salva_sfide(session, season, lang, retries=3, delay=2):
     print(f"Impossibile recuperare i dati per lingua {lang} dopo {retries} tentativi")
 
 async def main():
-    season = '31'  # Sostituisci con la stagione corrente
+    season = '34'  # Sostituisci con la stagione corrente
     lista_lingue = ['es', 'it']
 
     async with aiohttp.ClientSession() as session:
